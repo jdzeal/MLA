@@ -1,8 +1,23 @@
 
 # MLA Guide by JDZeal
 
+> # **Table of Contents**
+> 
+> - [Game Phases](#Game_Phases)
+>   - [Early Game - Awakening the Core Three](#Early_Game_-_Awakening_the_Core_Three)
+>   - [Mid Game - Elements, Order, and Chaos](#Mid-Game_-_Elements,_Order,_and_Chaos)
+>   - [End Game - Multi-Team Fights and Restrictions](#End_Game_-_Multi_Team_Fights_and_Restrictions)
+> - [Spending Resources Efficiently](#Spending_Resources_Efficiently)
+>   - [Buying Order and Chaos Heroes with Real Money](#Buying_Order_and_Chaos_Heroes_with_Real_Money)
+> - [Temple of Oracle](#Temple_of_Oracle)
+>   - [Gallery of Valor](#Gallery_of_Valor)
+>   - [Library](#Library)
+>   - [Lunomancy](#Lunomancy)
+
+<hr style="height:5px; background-color: black" />
+
 > # **Game Phases**
-> ## **Early Game** - Awakening The Core Three
+> ## **Early Game** - Awakening the Core Three
 > ![](Core3.png)
 >
 > When you start the game you will want to focus on three heroes that are part of the same element so that you can win battles in most of the areas of the game, primarily the ***Campaign Missions*** and ***Tower of Babel***. You'll probably want at least one hero that can absorb a lot of damage (like a tank or fighter) and then two who can clear the enemies. Each element has its strengths and weaknesses but any of them will suffice. For example, I started with Karina, Alice and Argus.
@@ -13,9 +28,7 @@
 > 
 > - ![](Wish2.png)
 > - ![](Wish1.png)
-
----
-
+> ---
 > ## **Mid Game** - Elements, Order, and Chaos
 > ![](ElementalTowers.png)
 > 
@@ -30,10 +43,8 @@
 > **Lunox** should be the number one Order hero to focus your attention on, followed by **Yu Zhong** in Chaos. Lunox is a nearly-immortal healer who resonates with any element combination, while Yu-Zhong is a Chaos Tank/Fighter whose presense adds 30% defense to your party. Paired together with an **elemental core three**, they form a terrifyingly strong **five-hero party**.
 >
 > ![](Resonance.png)
-
----
-
-> ## **End Game** - Multi-Team Fights and Crippling Restrictions
+> ---
+> ## **End Game** - Multi-Team Fights and Restrictions
 > ![](EndGame.png)
 > 
 > Mid game will now have prepared you to be able to assemble teams consisting of powerful heroes in every element as well as Order and Chaos. Advancing in both the ***Campaign Missions*** as well as the ***Arena*** will require fighting with up to ***Seven Teams*** (best 4 out of 7) essentially forcing you to create combination strategies for ***35 Heroes in a Single Confrontation***.
@@ -44,10 +55,10 @@
 >
 > ![](Sanctuary.png)
 
----
+<hr style="height:5px; background-color: black" />
 
 > # **Spending Resources Efficiently**
-> ## Obtaining Order and Chaos Heroes
+> ## Buying Order and Chaos Heroes with Real Money
 >
 > ### Conventional wisdom says that the ***Premium 700% Giftpacks*** are the best way to spend real money in the game.
 >
@@ -111,8 +122,14 @@
 > - Taking into account efficiency of both ***time*** and ***money***, this is the best offer.
 > - Obviously, you can go faster by spending more, or slower by spending less.
 >
-> ## In Conclusion (Cheat Sheet!)
-> ## Excellent Things For ***Light Spenders***:
+> ## Summary Based On Spending Real Money
+> ## Priorities for ***Big Spenders***:
+> - All Passes
+> - All Premium Packs
+> - All Regular Pack Special Offers (Daily/Weekly/Monthly)
+> - All Regular Packs with Tokens of Valor. (Level those statues!)
+> - Regular Packs of Gems combined with Sacred Scrolls as needed
+> ## Priorities for ***Light Spenders***:
 > - Monthly Pass
 > - Starlight Pass
 > - Dungeon Pass
@@ -120,28 +137,28 @@
 > - Regular Pack Monthly Offers
 > - Regular Packs with Tokens of Valor
 > - Premium Packs (some of them)
->
-> ## Most Important Things for ***Big Spenders***:
-> - All Passes
-> - All Premium Packs
-> - All Regular Pack Special Offers (Daily/Weekly/Monthly)
-> - All Regular Packs with Tokens of Valor. (Level those statues!)
-> - Regular Packs of Gems combined with Sacred Scrolls as needed
->
-> ## Things To ***NEVER Spend*** Money On:
+> ## Priorities for ***Never Spending Money***
+> ## General Things ***Nobody Should Ever Spend Money On***
 > - Diamond Store
 > - Limited Time Summons
 > - Limited Time Event Packs
 >   - Partake in events, just ***don't spend money*** on them
 >   - Events are generally misleading with micro transactions
 >   - In other words they nickel and dime you to death
->
-> ## Get Those Valor Tokens Early!
->
-> ![](Valor.png)
->
+>   - Your money will go much further buying Regular Packs
 
----
+<hr style="height:5px; background-color: black" />
+
+> # **Temple of Oracle**
+> ## Gallery of Valor
+> ![](Valor.png)
+> ---
+> ## Library
+> ![](Library.png)
+> ---
+> ## Lunomancy
+> ![](OrlayBronze.png)
+> ---
 
 > # Other Topics Coming Soon
 > - Fusion Guide
