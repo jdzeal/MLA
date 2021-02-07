@@ -18,6 +18,7 @@
 
 > # **Game Phases**
 > ## **Early Game** - Awakening the Core Three
+
 > ![](Core3.png)
 >
 > When you start the game you will want to focus on three heroes that are part of the same element so that you can win battles in most of the areas of the game, primarily the ***Campaign Missions*** and ***Tower of Babel***. You'll probably want at least one hero that can absorb a lot of damage (like a tank or fighter) and then two who can clear the enemies. Each element has its strengths and weaknesses but any of them will suffice. For example, I started with Karina, Alice and Argus.
@@ -28,7 +29,9 @@
 > 
 > - ![](Wish2.png)
 > - ![](Wish1.png)
-> ---
+
+---
+
 > ## **Mid Game** - Elements, Order, and Chaos
 > ![](ElementalTowers.png)
 > 
@@ -45,6 +48,7 @@
 > ![](Resonance.png)
 > ---
 > ## **End Game** - Multi-Team Fights and Restrictions
+
 > ![](EndGame.png)
 > 
 > Mid game will now have prepared you to be able to assemble teams consisting of powerful heroes in every element as well as Order and Chaos. Advancing in both the ***Campaign Missions*** as well as the ***Arena*** will require fighting with up to ***Seven Teams*** (best 4 out of 7) essentially forcing you to create combination strategies for ***35 Heroes in a Single Confrontation***.
@@ -130,6 +134,7 @@
 > - All Regular Packs with Tokens of Valor. (Level those statues!)
 > - Regular Packs of Gems combined with Sacred Scrolls as needed
 > ## Priorities for ***Light Spenders***:
+> 
 > - Monthly Pass
 > - Starlight Pass
 > - Dungeon Pass
@@ -142,12 +147,14 @@
 > -
 > -
 > ## General Things ***Nobody Should Ever Spend Money On***
+> 
 > - Diamond Store
 > - Limited Time Summons
 > - Limited Time Event Packs
 >   - Partake in events, just ***don't spend money*** on them
 >   - Events are generally misleading with micro transactions
 >   - In other words they nickel and dime you to death
+
 >   - Your money will go much further buying Regular Packs
 
 <hr style="height:5px; background-color: black" />
@@ -161,7 +168,6 @@
 > ---
 > ## Lunomancy
 > ![](OrlayBronze.png)
-> ---
 
 > # Other Topics Coming Soon
 > - Fusion Guide
