@@ -138,6 +138,9 @@
 > - Regular Packs with Tokens of Valor
 > - Premium Packs (some of them)
 > ## Priorities for ***Never Spending Money***
+> -
+> -
+> -
 > ## General Things ***Nobody Should Ever Spend Money On***
 > - Diamond Store
 > - Limited Time Summons
