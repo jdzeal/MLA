@@ -1,5 +1,5 @@
 
-# MLA Guide by JDZeal [(Click Here For My YouTube Videos!)](https://www.youtube.com/playlist?list=PLrFzIm18kcMUgmMSh7pnsnQDTnR1-W68q)
+# MLA Guide by JDZeal [(Click Here For YouTube Videos!)](https://www.youtube.com/playlist?list=PLrFzIm18kcMUgmMSh7pnsnQDTnR1-W68q)
 > # **Game Phases**
 > ## **Early Game** - Awakening The Core Three
 > ![](img/Core3.png)
