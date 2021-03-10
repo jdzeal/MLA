@@ -1,25 +1,8 @@
 
-# MLA Guide by JDZeal
-
-> # **Table of Contents**
-> 
-> - [Game Phases](#Game_Phases)
->   - [Early Game - Awakening the Core Three](#Early_Game_-_Awakening_the_Core_Three)
->   - [Mid Game - Elements, Order, and Chaos](#Mid-Game_-_Elements,_Order,_and_Chaos)
->   - [End Game - Multi-Team Fights and Restrictions](#End_Game_-_Multi_Team_Fights_and_Restrictions)
-> - [Spending Resources Efficiently](#Spending_Resources_Efficiently)
->   - [Buying Order and Chaos Heroes with Real Money](#Buying_Order_and_Chaos_Heroes_with_Real_Money)
-> - [Temple of Oracle](#Temple_of_Oracle)
->   - [Gallery of Valor](#Gallery_of_Valor)
->   - [Library](#Library)
->   - [Lunomancy](#Lunomancy)
-
-<hr style="height:5px; background-color: black" />
-
+# MLA Guide by JDZeal [(Click Here For YouTube Videos!)](https://www.youtube.com/playlist?list=PLrFzIm18kcMUgmMSh7pnsnQDTnR1-W68q)
 > # **Game Phases**
-> ## **Early Game** - Awakening the Core Three
-
-> ![](Core3.png)
+> ## **Early Game** - Awakening The Core Three
+> ![](img/Core3.png)
 >
 > When you start the game you will want to focus on three heroes that are part of the same element so that you can win battles in most of the areas of the game, primarily the ***Campaign Missions*** and ***Tower of Babel***. You'll probably want at least one hero that can absorb a lot of damage (like a tank or fighter) and then two who can clear the enemies. Each element has its strengths and weaknesses but any of them will suffice. For example, I started with Karina, Alice and Argus.
 > 
@@ -27,13 +10,13 @@
 > 
 > Take note that all "rolls" in MLA, no matter what they are (Premium, Elemental, Sacred Oath, Orlay) are ***not random*** in any way. Don't feel unlucky. The game is programmed to give you the exact same number of resources ***over time*** as everybody else. There is ***absolutely no luck involved*** over a period of weeks. With patience the results will be ***the same***.
 > 
-> - ![](Wish2.png)
-> - ![](Wish1.png)
+> - ![](img/Wish2.png)
+> - ![](img/Wish1.png)
 
 ---
 
 > ## **Mid Game** - Elements, Order, and Chaos
-> ![](ElementalTowers.png)
+> ![](img/ElementalTowers.png)
 > 
 > Once you reach a certain point, you will ***not*** be unable to make significant progress without having powerful teams in all of the five elements. This is where you need to focus on having a core of three heroes in ***each element***, for a total of ***15 Core Heroes***. Use the same strategy as in early game.
 >
@@ -41,15 +24,16 @@
 >
 > Even though you cannot use them in the elemental towers, **Order** and **Chaos** heroes will now be absolutely crucial to success. As you progress upwards in the elemental towers, you will receive periodic **Sacred Oath Scrolls**. These are the **best items in the game**, because they grant you access to **free Order and Chaos heroes**.
 >
-> ![](SacredOath.png)
+> ![](img/SacredOath.png)
 >
 > **Lunox** should be the number one Order hero to focus your attention on, followed by **Yu Zhong** in Chaos. Lunox is a nearly-immortal healer who resonates with any element combination, while Yu-Zhong is a Chaos Tank/Fighter whose presense adds 30% defense to your party. Paired together with an **elemental core three**, they form a terrifyingly strong **five-hero party**.
 >
-> ![](Resonance.png)
-> ---
-> ## **End Game** - Multi-Team Fights and Restrictions
+> ![](img/Resonance.png)
 
-> ![](EndGame.png)
+---
+
+> ## **End Game** - Multi-Team Fights and Crippling Restrictions
+> ![](img/EndGame.png)
 > 
 > Mid game will now have prepared you to be able to assemble teams consisting of powerful heroes in every element as well as Order and Chaos. Advancing in both the ***Campaign Missions*** as well as the ***Arena*** will require fighting with up to ***Seven Teams*** (best 4 out of 7) essentially forcing you to create combination strategies for ***35 Heroes in a Single Confrontation***.
 >
@@ -57,12 +41,12 @@
 >
 > You should also be aware that in the end game, ***All Your Heroes Are The Same Level***. There is a global mechanism in the ***Holy Sanctuary*** to level up ***all*** your heroes one level at a time. It requires very large amounts of ***Hero Experience***, ***Advance Essense***, and ***Battle Points***.
 >
-> ![](Sanctuary.png)
+> ![](img/Sanctuary.png)
 
-<hr style="height:5px; background-color: black" />
+---
 
 > # **Spending Resources Efficiently**
-> ## Buying Order and Chaos Heroes with Real Money
+> ## Obtaining Order and Chaos Heroes
 >
 > ### Conventional wisdom says that the ***Premium 700% Giftpacks*** are the best way to spend real money in the game.
 >
@@ -70,13 +54,13 @@
 >
 > If you consider this first ***(bad!)*** pack, it contains a ***Level II Gear Refinement*** and 6 ***Random Gold Cards***. First of all, ***Never Spend Money on Gear Refinement Items***. You get those for free in so many places, including the normal idle chest. Paying for those is money down the toilet. Second of all, ***Never Spend Money on Random Gold Cards***. Random Gold Cards are usually Elite (not Epic) heroes and are thus mostly worthless. You'll get your wishlist golds from your normal daily quests, using gems to roll premium summons. Be patient and you'll get not only ***Wishlist Heroes***, but occasionally ***Order and Chaos Heroes***, from ***Premium Summons***, paid for from your ***Free Gems*** obtained from Daily Quests and other free sources.
 >
-> ![](PremiumBad.png)
+> ![](img/PremiumBad.png)
 >
 > ## Now, consider this ***(amazing!)*** premium gift pack.
 >
 > (It's only available when you level up your Holy Sanctuary by a multiple of 5)
 >
-> ![](PremiumGood.png)
+> ![](img/PremiumGood.png)
 >
 > ### Let's go through everything you get for your hard earned $99.99.
 >
@@ -87,22 +71,22 @@
 >
 >The ***40 Sacred Oath Scrolls*** will probably grant you a gold card of the Order/Chaos hero you wished for. You can get a gold in 30-65 rolls of Sacred Oath, but I've found that usually it's right around 40, and if you miss it, just roll a couple more with gems. 500 gems per extra roll. But unlike Premium Summons, the "Junk" items or "Misses" are actually incredibly important resources. Leveling Resources, Gear, Soul Vessel Gems, other random Gold Card heroes... Every single Sacred Oath result is useful in some way.
 >
-> ![](SacredOathRoll.png)
+> ![](img/SacredOathRoll.png)
 >
 >The ***7,000 Gems*** can be used for Premium Summons, which result in Wish List Golds over time, Soul Vessel Gems at each milestone, and occasionally multiple golds with Chaos and Order heroes in the mix. Later on in the game, you can use the 7,000 gems to just roll more Sacred Oath summons at 500 gems per pop, in case you didn't get your Order/Chaos gold card with the 40 Sacred Scrolls.
 >
 >The 12,000 Sign of Stars are used to perform ***Lunomancy*** (Orlay) and are similar to Premium Summons in that they sometimes result in junk (bronze) cards, sometimes results in silver (good) cards, and at about the same rate as Premium Summons result in gold (Hero Exclusive) cards. Each hero can accumulate 9 of these cards to gain ***Extraordinary Skills in Battle***.
 >
-> ![](Orlay1.png)
+> ![](img/Orlay1.png)
 >
-> ![](Orlay2.png)
+> ![](img/Orlay2.png)
 >
 > ## So the verdict is that ***Premium 700%*** offers ***CAN BE*** some of the best.
 > ## But ***not always***!
 >
 > ## Let's look at what is currently the ***Actual Best $99.99 Purchase*** in MLA.
 >
-> ![](Best.png)
+> ![](img/Best.png)
 >
 > ## This is a normal pack that you can only buy twice a month.
 >
@@ -126,15 +110,8 @@
 > - Taking into account efficiency of both ***time*** and ***money***, this is the best offer.
 > - Obviously, you can go faster by spending more, or slower by spending less.
 >
-> ## Summary Based On Spending Real Money
-> ## Priorities for ***Big Spenders***:
-> - All Passes
-> - All Premium Packs
-> - All Regular Pack Special Offers (Daily/Weekly/Monthly)
-> - All Regular Packs with Tokens of Valor. (Level those statues!)
-> - Regular Packs of Gems combined with Sacred Scrolls as needed
-> ## Priorities for ***Light Spenders***:
-> 
+> ## In Conclusion (Cheat Sheet!)
+> ## Excellent Things For ***Light Spenders***:
 > - Monthly Pass
 > - Starlight Pass
 > - Dungeon Pass
@@ -142,32 +119,28 @@
 > - Regular Pack Monthly Offers
 > - Regular Packs with Tokens of Valor
 > - Premium Packs (some of them)
-> ## Priorities for ***Never Spending Money***
-> -
-> -
-> -
-> ## General Things ***Nobody Should Ever Spend Money On***
-> 
+>
+> ## Most Important Things for ***Big Spenders***:
+> - All Passes
+> - All Premium Packs
+> - All Regular Pack Special Offers (Daily/Weekly/Monthly)
+> - All Regular Packs with Tokens of Valor. (Level those statues!)
+> - Regular Packs of Gems combined with Sacred Scrolls as needed
+>
+> ## Things To ***NEVER Spend*** Money On:
 > - Diamond Store
 > - Limited Time Summons
 > - Limited Time Event Packs
 >   - Partake in events, just ***don't spend money*** on them
 >   - Events are generally misleading with micro transactions
 >   - In other words they nickel and dime you to death
+>
+> ## Get Those Valor Tokens Early!
+>
+> ![](img/Valor.png)
+>
 
->   - Your money will go much further buying Regular Packs
-
-<hr style="height:5px; background-color: black" />
-
-> # **Temple of Oracle**
-> ## Gallery of Valor
-> ![](Valor.png)
-> ---
-> ## Library
-> ![](Library.png)
-> ---
-> ## Lunomancy
-> ![](OrlayBronze.png)
+---
 
 > # Other Topics Coming Soon
 > - Fusion Guide
